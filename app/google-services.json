@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154171542064",
+    "firebase_url": "https://sevenspices-c6b0e.firebaseio.com",
+    "project_id": "sevenspices-c6b0e",
+    "storage_bucket": "sevenspices-c6b0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154171542064:android:64fc669ea17d4169b6bbf5",
+        "android_client_info": {
+          "package_name": "com.example.sevenspices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154171542064-da8q6n37mugtcd16mo5tmlglm1nvd7as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sevenspices",
+            "certificate_hash": "48d1464e5912ccc1eb062882eb7491ead5fcc41f"
+          }
+        },
+        {
+          "client_id": "154171542064-ekr3gsutf7jbj7j9s88ibmp74ns30ale.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3WcYgXGU13t8egIJuXJFELWJIS0PcIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154171542064-ekr3gsutf7jbj7j9s88ibmp74ns30ale.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
